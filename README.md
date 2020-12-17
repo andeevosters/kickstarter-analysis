@@ -14,14 +14,14 @@ For the assessment based on launch date, we had to first start by converting the
 
 For a visual side-by-side comparison of our filter to only include theater-based campaigns, we created a line chart. Below is that chart, entitled "Theater Outcomes by Launch Date" with the results.
 
-{add image here}
+Theater_Outcomes_vs_Launch.png
 
 ### Analysis of Outcomes Based on Goals
 To do a more refined assessment of the outcome by fundraising goal, we only looked at play kickstarters. We then categorized the data into 12 $goal groups in $5,000 increments, starting at "less than $1,000" and up to "$50,000 and greater". We counted the number of outcomes in each of the outcome categories using the COUNTIFS function, added all the possible outcomes together per goal range using the SUM function, then determined the percentage of each outcome type by dividing the outcome type by the total projects and formatting the cell as a percentage.
 
 The "Percentages of Outcomes Based on Goals" chart can be found below.
 
-{add image here}
+Outcomes_vs_Goals.png
 
 ### Challenges and Difficulties Encountered
 Overall, there weren't many difficulties in doing this analysis. If you need some refreshing of Excel, however, here are a few things to consider.
