@@ -54,5 +54,4 @@ To give our best, most-assured recommendation, I'd suggest also analyzing the fo
    - Length of a Kickstarter (#weeks from launch to end)
    – Number of backers (start by 100, then splice as needed from there). This in particular will help to determine your necessary marketing efforts for your fundraiser.
 
-### If I had to give a recommendation based on this dataset:
 If I were to give Louise my recommendation on the best fundraising goal based on the data analyzed, it would be not to surpass $4,999, and to run the campaign in May with a June or July end date. However, there are opportunities to give a considerably more educated recommendation with further analysis (using the recommendations above).
