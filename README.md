@@ -24,10 +24,7 @@ The "Percentages of Outcomes Based on Goals" chart can be found below.
 ![Outcomes based on campaign goals](https://github.com/andeevosters/kickstarter-analysis/blob/main/Outcomes_vs_Goals.png)
 
 ### Challenges and Difficulties Encountered
-Overall, there weren't many difficulties in doing this analysis. If you need some refreshing of Excel, however, here are a few things to consider.
-1. Because we wanted to analyze our first set of data by years, it took a bit to figure out how to break the year into months. It's worth Googling how to filter a year into months and quarters inside a pivot table.
-
-2. There is a small set of data that doesn't fall into the three outcomes defined by the assignment (successful, failed and canceled). This set is "live". A decision will need to be made on whether to include that data in the sample, if it means your results look different than what you're being asked to report. In our case, we weren't asked to report "live" outcomes. I chose to include them in my sample, but others may not have.
+Overall, there weren't many difficulties in doing this analysis. If you need some refreshing of Excel, however, it's worth Googling how to filter a year into months and quarters inside a pivot table. 
 
 ## Results
 ### Results of Outcomes Based on Launch Date
