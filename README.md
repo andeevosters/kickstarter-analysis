@@ -6,7 +6,7 @@ Our client, Louise, wants to raise funds for a theater production using Kickstar
 
 
 ## Analysis and Challenges
-We first wanted to assess outcomes by things like seasonal trends over the course of a 12-month timeframe, for example, to see if there are months that have a particularly high or low chance toward success. Next, we wanted to see how the campaign outcomes compared and contrasted by fundraising goal, to learn if there is a formula for a successful financial goal. Below is each step in more detail.
+We first wanted to assess outcomes by things like seasonal trends over the course of a 12-month timeframe, for example, to see if there are months that have a particularly high or low chance toward success. We also wanted to see how the campaign outcomes compared and contrasted by fundraising goal, to learn if there is a formula for a successful financial goal. Below describes each step in more detail.
 
 
 ### Analysis of Outcomes Based on Launch Date
@@ -14,14 +14,14 @@ For the assessment based on launch date, we had to first start by converting the
 
 For a visual side-by-side comparison of our filter to only include theater-based campaigns, we created a line chart. Below is that chart, entitled "Theater Outcomes by Launch Date" with the results.
 
-![Alt text](https://github.com/andeevosters/kickstarter-analysis/blob/main/Theater_Outcomes_vs_Launch.png)
+![Theater outcomes based on launch date](https://github.com/andeevosters/kickstarter-analysis/blob/main/Theater_Outcomes_vs_Launch.png)
 
 ### Analysis of Outcomes Based on Goals
 To do a more refined assessment of the outcome by fundraising goal, we only looked at play kickstarters. We then categorized the data into 12 $goal groups in $5,000 increments, starting at "less than $1,000" and up to "$50,000 and greater". We counted the number of outcomes in each of the outcome categories using the COUNTIFS function, added all the possible outcomes together per goal range using the SUM function, then determined the percentage of each outcome type by dividing the outcome type by the total projects and formatting the cell as a percentage.
 
 The "Percentages of Outcomes Based on Goals" chart can be found below.
 
-![Alt text](https://github.com/andeevosters/kickstarter-analysis/blob/main/Outcomes_vs_Goals.png)
+![Outcomes based on campaign goals](https://github.com/andeevosters/kickstarter-analysis/blob/main/Outcomes_vs_Goals.png)
 
 ### Challenges and Difficulties Encountered
 Overall, there weren't many difficulties in doing this analysis. If you need some refreshing of Excel, however, here are a few things to consider.
